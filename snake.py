@@ -77,8 +77,6 @@ class Apple:
         self.x = 60
         self.y = 60
         
-
-
 snake = Snake(3)
 
 while not done:
